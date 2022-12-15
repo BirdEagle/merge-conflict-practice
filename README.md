@@ -1,2 +1,2 @@
-# merge-conflict-practice
+# third-branch
 This project is for practice resolving merge conflicts
